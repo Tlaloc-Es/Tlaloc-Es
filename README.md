@@ -32,6 +32,16 @@
       </td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Tlaloc-Es/labelme2yolov7segmentation">labelme2yolov7segmentation</a></td>
+      <td>
+        <img src="https://img.shields.io/github/stars/Tlaloc-Es/labelme2yolov7segmentation?color=yellow&logoColor=black&style=flat-square"></img>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+        <href a="https://pypi.org/project/labelme2yolov7segmentation/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
+      </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</a></td>
       <td></td>
@@ -60,24 +70,6 @@
         <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img>
         <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=OpenCV"></img>
         <href a="https://pypi.org/project/aipose/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Tlaloc-Es/labelme2yolov7segmentation">labelme2yolov7segmentation</a></td>
-      <td>
-       <img src="https://img.shields.io/github/stars/Tlaloc-Es/labelme2yolov7segmentation?color=yellow&logoColor=black&style=flat-square"></img>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
-        <href a="https://pypi.org/project/labelme2yolov7segmentation/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</a></td>
-      <td></td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
       </td>
     </tr>
   </table>
