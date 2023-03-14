@@ -160,7 +160,7 @@
     </td>
   </tr>
 </table>
-<table>
+<table align="center">
   <tr>
     <th colspan="3">📑 Workshops <img style="height:10px" src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/esp.svg"></th>
   </tr>
