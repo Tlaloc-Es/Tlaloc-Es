@@ -44,7 +44,7 @@
 
    <table>
     <tr>
-      <th colspan="3">Courses <img style="height:20px" src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/esp.svg"></th>
+      <th colspan="3">Courses <img style="height:10px" src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/esp.svg"></th>
     </tr>
     <tr>
       <th>Title</th>
