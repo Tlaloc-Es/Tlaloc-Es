@@ -84,7 +84,7 @@
           <img src="https://img.shields.io/github/stars/Tlaloc-Es/Taller-custom-scalars-y-enums-en-graphql?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+        <img src="https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=GraphQL"></img>
       </td>
     </tr>
     <tr>
@@ -102,7 +102,8 @@
         <img src="https://img.shields.io/github/stars/Tlaloc-Es/Taller-publica-un-paquete-en-Pypi?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>      
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+        <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img>      
       </td>
     </tr>
   </table>
