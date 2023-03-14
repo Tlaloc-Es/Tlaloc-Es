@@ -10,42 +10,36 @@
 </p>
 
 
-<table>
-  <tr>
-    <th>
-      PyPy - Packages
-    </th>
-  </tr>
-  <tr>
-    <th>
-      <table>
-        <tr>
-          <th>Titles</th>
-          <th>Starts</th>
-          <th>Technologies</th>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></a></td>
-          <td></td>
-          <td>
-            <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
-            <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img>
-            <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=OpenCV"></img>
-            <href a="https://pypi.org/project/aipose/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</a></td>
-          <td></td>
-          <td>
-            <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
-          </td>
-        </tr>
-      </table>
-    </th>
-  </tr>
-</table>
+
+  <table>
+    <tr>
+      <th colspan="3">PyPy - Packages</th>
+    </tr>
+    <tr>
+      <th>Titles</th>
+      <th>Starts</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></a></td>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+        <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img>
+        <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=OpenCV"></img>
+        <href a="https://pypi.org/project/aipose/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</a></td>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+      </td>
+    </tr>
+  </table>
+
   
 
 
