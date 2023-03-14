@@ -27,7 +27,7 @@
         <tr>
           <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></td>
           <td></td>
-          <td>[![swift-package-manager](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch)</td>
+          <td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img></td>
         </tr>
         <tr>
           <td><a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</img></td>
