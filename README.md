@@ -62,57 +62,29 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/curso-scrapy">Curso De Scrapy</a></td>
-      <td>
-
-      </td>
-      <td>
-
-      </td>
+      <td>      </td>
+      <td>      </td>
     </tr>
-  
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/Curso-Introduccion-a-GraphQL">Curso introduccion a GraphQL</a></td>
-      <td>
-
-      </td>
-      <td>
-
-      </td>
+      <td>      </td>
+      <td>      </td>
     </tr>
-  
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/Taller-custom-scalars-y-enums-en-graphql">Taller custom scalars y enums en GraphQL</a></td>
-      <td>
-
-      </td>
-      <td>
-
-      </td>
+      <td>      </td>
+      <td>      </td>
     </tr>
-    
-
-  
-     <tr>
+    <tr>
       <td><a href="https://github.com/Tlaloc-Es/Taller-control-de-accesso-en-GraphQL">Taller control de accesso en GraphQL</a></td>
-      <td>
-
-      </td>
-      <td>
-
-      </td>
+      <td>      </td>
+      <td>      </td>
     </tr>
-  
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/Taller-publica-un-paquete-en-Pypi">Taller publica un paquete en Pypi</a></td>
-      <td>
-
-      </td>
-      <td>
-
-      </td>
+      <td>      </td>
+      <td>      </td>
     </tr>
-  
-  
   </table>
 
 <h3 align="left">Support:</h3>
