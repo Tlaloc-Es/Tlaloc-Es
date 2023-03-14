@@ -21,9 +21,9 @@
       <th>Technologies</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></a></td>
+      <td><a href="https://github.com/Tlaloc-Es/aipose">aipose</a></td>
       <td>
-       <img>https://img.shields.io/github/stars/Tlaloc-Es/aipose?color=black&style=flat-square/https://github.com/Tlaloc-Es/aipose/stargazers</img>
+       <img src="https://img.shields.io/github/stars/Tlaloc-Es/aipose?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
       <td>
         <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
