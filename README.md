@@ -25,7 +25,7 @@
           <th>Technologies</th>
         </tr>
         <tr>
-          <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></td>
+          <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></a></td>
           <td></td>
           <td>
             <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
@@ -35,7 +35,8 @@
           </td>
         </tr>
         <tr>
-          <td><a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</img></td>
+          <td>
+            <a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</a></td>
           <td></td>
           <td>
             <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
