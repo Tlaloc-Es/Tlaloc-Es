@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <th>Titles</th>
-      <th>Starts</th>
+      <th>Stars</th>
       <th>Technologies</th>
     </tr>
     <tr>
