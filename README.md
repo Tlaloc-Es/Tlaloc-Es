@@ -42,7 +42,7 @@
     </tr>
   </table>
 
-    <table>
+   <table>
     <tr>
       <th colspan="3">Courses <img src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/esp.svg"></th>
     </tr>
