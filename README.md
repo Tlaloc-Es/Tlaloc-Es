@@ -23,7 +23,7 @@
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/aipose">aipose</a></td>
       <td>
-       <img style="height:20px" src="https://img.shields.io/github/stars/Tlaloc-Es/aipose?color=yellow&logoColor=black&style=flat-square"></img>
+       <img src="https://img.shields.io/github/stars/Tlaloc-Es/aipose?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
       <td>
         <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
@@ -44,7 +44,7 @@
 
    <table>
     <tr>
-      <th colspan="3">Courses <img src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/esp.svg"></th>
+      <th colspan="3">Courses <img style="height:20px" src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/esp.svg"></th>
     </tr>
     <tr>
       <th>Title</th>
