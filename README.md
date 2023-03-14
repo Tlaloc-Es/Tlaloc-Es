@@ -62,7 +62,9 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/curso-scrapy">Curso De Scrapy</a></td>
-      <td>      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/Tlaloc-Es/curso-scrapy?color=yellow&logoColor=black&style=flat-square"></img>
+      </td>
       <td>      </td>
     </tr>
     <tr>
@@ -70,7 +72,9 @@
       <td>
         <img src="https://img.shields.io/github/stars/Tlaloc-Es/Curso-Introduccion-a-GraphQL?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
-      <td>      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=GrapQL"></img>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/Taller-custom-scalars-y-enums-en-graphql">Taller custom scalars y enums en GraphQL</a></td>
