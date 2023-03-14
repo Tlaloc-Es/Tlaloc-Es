@@ -65,7 +65,9 @@
       <td>
         <img src="https://img.shields.io/github/stars/Tlaloc-Es/curso-scrapy?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
-      <td>      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/Curso-Introduccion-a-GraphQL">Curso introduccion a GraphQL</a></td>
@@ -81,21 +83,27 @@
       <td>
           <img src="https://img.shields.io/github/stars/Tlaloc-Es/Taller-custom-scalars-y-enums-en-graphql?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
-      <td>      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/Taller-control-de-accesso-en-GraphQL">Taller control de accesso en GraphQL</a></td>
       <td>
         <img src="https://img.shields.io/github/stars/Tlaloc-Es/Taller-control-de-accesso-en-GraphQL?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
-      <td>      </td>
+      <td>
+        <img src="https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=GraphQL"></img>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/Taller-publica-un-paquete-en-Pypi">Taller publica un paquete en Pypi</a></td>
       <td>
         <img src="https://img.shields.io/github/stars/Tlaloc-Es/Taller-publica-un-paquete-en-Pypi?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
-      <td>      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>      
+      </td>
     </tr>
   </table>
 
