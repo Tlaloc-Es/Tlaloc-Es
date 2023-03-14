@@ -61,17 +61,58 @@
       <th>Technologies</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/Tlaloc-Es/aipose">aipose</a></td>
+      <td><a href="https://github.com/Tlaloc-Es/curso-scrapy">Curso De Scrapy</a></td>
       <td>
-       <img src="https://img.shields.io/github/stars/Tlaloc-Es/aipose?color=yellow&logoColor=black&style=flat-square"></img>
+
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
-        <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img>
-        <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=OpenCV"></img>
-        <href a="https://pypi.org/project/aipose/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
+
       </td>
     </tr>
+  
+    <tr>
+      <td><a href="https://github.com/Tlaloc-Es/Curso-Introduccion-a-GraphQL">Curso introduccion a GraphQL</a></td>
+      <td>
+
+      </td>
+      <td>
+
+      </td>
+    </tr>
+  
+    <tr>
+      <td><a href="https://github.com/Tlaloc-Es/Taller-custom-scalars-y-enums-en-graphql">Taller custom scalars y enums en GraphQL</a></td>
+      <td>
+
+      </td>
+      <td>
+
+      </td>
+    </tr>
+    
+
+  
+     <tr>
+      <td><a href="https://github.com/Tlaloc-Es/Taller-control-de-accesso-en-GraphQL">Taller control de accesso en GraphQL</a></td>
+      <td>
+
+      </td>
+      <td>
+
+      </td>
+    </tr>
+  
+    <tr>
+      <td><a href="https://github.com/Tlaloc-Es/Taller-publica-un-paquete-en-Pypi">Taller publica un paquete en Pypi</a></td>
+      <td>
+
+      </td>
+      <td>
+
+      </td>
+    </tr>
+  
+  
   </table>
 
 <h3 align="left">Support:</h3>
