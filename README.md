@@ -10,8 +10,7 @@
 </p>
 
 
-<center>
-  <table>
+  <table  align="center">
     <tr>
       <th colspan="3">PyPy - Packages</th>
     </tr>
@@ -42,7 +41,7 @@
     </tr>
   </table>
 
-   <table>
+   <table  align="center">
     <tr>
       <th colspan="3">Courses <img style="height:10px" src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/esp.svg"></th>
     </tr>
@@ -72,7 +71,6 @@
       </td>
     </tr>
   </table>
-</center>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tlaloc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tlaloc" /></a></p><br><br>
