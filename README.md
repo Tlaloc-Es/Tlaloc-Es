@@ -9,26 +9,37 @@
 <a href="https://stackoverflow.com/users/3672883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3672883" height="30" width="40" /></a><a href="https://dev.to/tlaloces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tlaloces" height="30" width="40" /></a>
 </p>
 
-<center><h1>PyPy - Packages</h1></center>
----
 
 <table>
   <tr>
-    <th>Titles</th>
-    <th>Starts</th>
-    <th>Technologies</th>
+    <th>
+      PyPy - Packages
+    </th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</img></td>
-    <td></td>
-    <td></td>
+    <th>
+      <table>
+        <tr>
+          <th>Titles</th>
+          <th>Starts</th>
+          <th>Technologies</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</img></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+    </th>
   </tr>
 </table>
+  
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tlaloc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tlaloc" /></a></p><br><br>
