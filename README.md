@@ -73,7 +73,7 @@
         <img src="https://img.shields.io/github/stars/Tlaloc-Es/Curso-Introduccion-a-GraphQL?color=yellow&logoColor=black&style=flat-square"></img>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=GrapQL"></img>
+        <img src="https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=GraphQL"></img>
       </td>
     </tr>
     <tr>
