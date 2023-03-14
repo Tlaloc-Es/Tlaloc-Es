@@ -16,7 +16,7 @@
       <th colspan="3">PyPy - Packages</th>
     </tr>
     <tr>
-      <th>Titles</th>
+      <th>Title</th>
       <th>Stars</th>
       <th>Technologies</th>
     </tr>
@@ -42,7 +42,36 @@
     </tr>
   </table>
 
-  
+    <table>
+    <tr>
+      <th colspan="3">Courses <img src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/esp.svg"></th>
+    </tr>
+    <tr>
+      <th>Title</th>
+      <th>Stars</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tlaloc-Es/aipose">aipose</a></td>
+      <td>
+       <img src="https://img.shields.io/github/stars/Tlaloc-Es/aipose?color=yellow&logoColor=black&style=flat-square"></img>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+        <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img>
+        <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=OpenCV"></img>
+        <href a="https://pypi.org/project/aipose/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</a></td>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+      </td>
+    </tr>
+  </table>
 
 
 <h3 align="left">Support:</h3>
