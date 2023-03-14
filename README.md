@@ -30,13 +30,16 @@
           <td>
             <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
             <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img>
+            <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=OpenCV"></img>
             <href a="https://pypi.org/project/aipose/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
           </td>
         </tr>
         <tr>
           <td><a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</img></td>
           <td></td>
-          <td></td>
+          <td>
+            <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+          </td>
         </tr>
       </table>
     </th>
@@ -49,3 +52,4 @@
 <p><a href="https://www.buymeacoffee.com/tlaloc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tlaloc" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlaloc-es&show_icons=true&locale=en&layout=compact" alt="tlaloc-es" /></p>
+
