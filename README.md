@@ -23,7 +23,7 @@
     <tr>
       <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></a></td>
       <td>
-        https://img.shields.io/github/stars/Tlaloc-Es/aipose?color=black&style=flat-square)](https://github.com/Tlaloc-Es/aipose/stargazers
+       <img>https://img.shields.io/github/stars/Tlaloc-Es/aipose?color=black&style=flat-square/https://github.com/Tlaloc-Es/aipose/stargazers</img>
       </td>
       <td>
         <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
