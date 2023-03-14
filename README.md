@@ -246,7 +246,3 @@
 <a href="https://linkedin.com/in/josebaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josebaf" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3672883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3672883" height="30" width="40" /></a><a href="https://dev.to/tlaloces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tlaloces" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlaloc-es&show_icons=true&locale=en&layout=compact" alt="tlaloc-es" /></p>
-
