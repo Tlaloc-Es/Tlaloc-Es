@@ -27,7 +27,11 @@
         <tr>
           <td><a href="https://github.com/Tlaloc-Es/aipose">aiposea</img></td>
           <td></td>
-          <td><img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img></td>
+          <td>
+            <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+            <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img>
+            <href a="https://pypi.org/project/aipose/"> <img src="https://img.shields.io/badge/PyPy-black?style=flat-square&logo=PyPy"></img> </a>
+          </td>
         </tr>
         <tr>
           <td><a href="https://github.com/Tlaloc-Es/StringNormalizationEngine">String Normalization Engine</img></td>
