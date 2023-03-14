@@ -79,6 +79,14 @@
       </td>
     </tr>
     <tr>
+      <th colspan="3">Workshops <img style="height:10px" src="https://raw.githubusercontent.com/linssen/country-flag-icons/master/images/svg/esp.svg"></th>
+    </tr>
+    <tr>
+      <th>Title</th>
+      <th>Stars</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Tlaloc-Es/Taller-custom-scalars-y-enums-en-graphql">Taller custom scalars y enums en GraphQL</a></td>
       <td>
           <img src="https://img.shields.io/github/stars/Tlaloc-Es/Taller-custom-scalars-y-enums-en-graphql?color=yellow&logoColor=black&style=flat-square"></img>
