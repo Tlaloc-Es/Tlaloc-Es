@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"></img>
       <img src="https://img.shields.io/badge/Dash-black?style=flat-square&logo=Dash"></img>
       <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=Pandas"></img>
-      <img src="https://img.shields.io/badge/Heroku-black?style=flat-square&logo=Heroku"></img>
+      <img src="https://img.shields.io/badge/Render-black?style=flat-square&logo=Render"></img>
     </td>
   </tr>
   <tr>
