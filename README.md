@@ -6,9 +6,16 @@
 
 </p>
 
-
-- 💬 Ask me about **Python, A.I., Software Arquitecture**
-
+<img style="width: 250px; height: 200px;" align="right" src="https://i.imgflip.com/1opb2m.jpg" />
+<ul>
+  <li> 💬 Ask me about **Python, A.I., Software Arquitecture** </li>
+  <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
+</ul>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <h1> 🚀 Repositories 🚀</h1>
 
 <table  align="center" style="width=100%">
