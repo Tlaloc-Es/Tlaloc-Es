@@ -79,13 +79,13 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Tlaloc-Es/labelme2yolov7segmentation">labelme2yolov7segmentation</a></td>
+    <td><a href="https://github.com/Tlaloc-Es/labelme-to-yolo">labelme-to-yolo</a></td>
     <td>
-      <img src="https://img.shields.io/github/stars/Tlaloc-Es/labelme2yolov7segmentation?color=yellow&logoColor=black&style=flat-square"></img>
+      <img src="https://img.shields.io/github/stars/Tlaloc-Es/labelme-to-yolo?color=yellow&logoColor=black&style=flat-square"></img>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
-      <href a="https://pypi.org/project/labelme2yolov7segmentation/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
+      <href a="https://pypi.org/project/labelme-to-yolo/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
     </td>
   </tr>
   <tr>
