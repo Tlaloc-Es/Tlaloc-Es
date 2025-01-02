@@ -130,8 +130,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
-      <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img>
-      <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=OpenCV"></img>
+      <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=gnubash"></img>
       <href a="https://pypi.org/project/KillPy/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
     </td>
   </tr>
