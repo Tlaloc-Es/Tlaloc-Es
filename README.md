@@ -124,6 +124,18 @@
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Tlaloc-Es/KillPy">KillPy</a></td>
+    <td>
+      <img src="https://img.shields.io/github/stars/Tlaloc-Es/KillPy?color=yellow&logoColor=black&style=flat-square"></img>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"></img>
+      <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch"></img>
+      <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=OpenCV"></img>
+      <href a="https://pypi.org/project/KillPy/"> <img src="https://img.shields.io/badge/PyPi-black?style=flat-square&logo=PyPi"></img> </a>
+    </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/Tlaloc-Es/iotool">iotool</a></td>
     <td><img src="https://img.shields.io/github/stars/Tlaloc-Es/iotool?color=yellow&logoColor=black&style=flat-square"></img></td>
