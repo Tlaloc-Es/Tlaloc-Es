@@ -14,6 +14,19 @@ Clean Python environments in seconds (CLI + TUI)
 * Remove unused virtualenvs & cache
 * Safe and fast cleanup
 
+---
+
+### 🏷️ [labelme-to-yolo](https://github.com/Tlaloc-Es/labelme-to-yolo)
+
+Convert LabelMe annotations into YOLO format in seconds
+
+* Supports object detection & segmentation
+* Automatic class extraction
+* Generates training-ready dataset structure
+* Designed for fast CV pipelines
+
+---
+
 ### 🧠 [PixRec: Image Recommender System *(WIP)*](https://github.com/Tlaloc-Es/PixRec)
 
 Semantic image search using embeddings (CLIP-based)
@@ -22,6 +35,8 @@ Semantic image search using embeddings (CLIP-based)
 * Works with your own dataset
 * FastAPI + vector search
 
+---
+
 ### 👁️ [Aipose: Realtime Pose API *(WIP)*](https://github.com/Tlaloc-Es/aipose)
 
 Run pose estimation from a simple API
@@ -29,6 +44,8 @@ Run pose estimation from a simple API
 * Real-time inference
 * Image → keypoints
 * Ready for integration
+
+---
 
 ### 🐜 Ant Colony Simulator *(WIP)*
 
