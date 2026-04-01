@@ -14,7 +14,7 @@ Clean Python environments in seconds (CLI + TUI)
 * Remove unused virtualenvs & cache
 * Safe and fast cleanup
 
-### 🧠 Image Recommender System *(WIP)*
+### 🧠 [PixRec: Image Recommender System *(WIP)*](https://github.com/Tlaloc-Es/PixRec)
 
 Semantic image search using embeddings (CLIP-based)
 
@@ -22,7 +22,7 @@ Semantic image search using embeddings (CLIP-based)
 * Works with your own dataset
 * FastAPI + vector search
 
-### 👁️ Realtime Pose API *(WIP)*
+### 👁️ [Aipose: Realtime Pose API *(WIP)*](https://github.com/Tlaloc-Es/aipose)
 
 Run pose estimation from a simple API
 
