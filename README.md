@@ -37,6 +37,17 @@ Semantic image search using embeddings (CLIP-based)
 
 ---
 
+### 📡 [fake-rtsp](https://github.com/Tlaloc-Es/fake-rtsp)
+
+Simulate RTSP camera streams from video files for testing and development
+
+* Generate RTSP streams without real cameras
+* Useful for computer vision pipelines and video analytics
+* Works with local videos as input
+* Lightweight and easy to integrate into existing systems
+
+---
+
 ### 👁️ [Aipose: Realtime Pose API *(WIP)*](https://github.com/Tlaloc-Es/aipose)
 
 Run pose estimation from a simple API
